@@ -1,7 +1,7 @@
 # Khalid Alasiri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/khalidasiri)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/kasiri)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/kl1d)
 
 PhD Student in Computer Science specializing in Cybersecurity. Passionate about creating secure digital ecosystems focusing on Deceptive Cybersecurity and Proactive Defense Strategies. Experienced Full Stack Developer and Data Analyst.
 
